@@ -1,0 +1,6 @@
+{
+  "name": "Belo Horizonte 3D — Passeio Interativo",
+  "description": "Passeio aéreo interativo em 3D fotorrealista pelos principais pontos turísticos, arquitetura modernista, mirantes e gastronomia de Belo Horizonte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
